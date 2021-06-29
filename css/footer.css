@@ -1,0 +1,59 @@
+.footer__row {
+    display: flex;
+    padding-top: 100px;
+}
+.footer__contacts {
+    display: flex;
+    flex-direction: column;
+    width: 33.333%;
+}
+.footer__info {
+    display: inline;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 22px;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: white;
+    text-decoration: none;
+}
+.footer__list {
+    padding: 0;
+}
+.footer__item {
+    padding-bottom: 25px;
+}
+
+.footer__form {
+	display: flex;
+}
+.footer__form div {
+    max-width: 420px;
+}
+.footer__form input {
+    height: 35px;
+    margin: 0 30px 30px 0;
+}
+.footer__form textarea {
+    width: 310px;
+    height: 100px;
+}
+.footer__form input,
+.footer__form textarea {
+	background: #444444;
+	border: 1px solid #616161;
+	box-sizing: border-box;
+	resize: none;
+	padding: 8px 15px;
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 12px;
+	line-height: 150%;
+	color: #989898;
+	outline: none;
+}
+
+
+

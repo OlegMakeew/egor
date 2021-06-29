@@ -1,0 +1,44 @@
+.about {
+    padding: 150px 0;
+}
+.column-5 {
+    width: 41.18%;
+    margin-right: 30px;
+}
+
+
+.column-3 {
+    width: 25%;
+    margin-right: 30px;
+}
+.about_titles {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 21px;
+    line-height: 29px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    padding-bottom: 40px;
+}
+.about__description {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 150%;
+}
+.column-3__text {
+    padding: 15px 0;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 22px;
+    letter-spacing: 0.05em;
+}
+.column-3__text:last-child {
+    padding-bottom: 0;
+}
+.column-4 {
+    width: 33%;
+    align-items: right;
+}

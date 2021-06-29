@@ -1,0 +1,11 @@
+.partners {
+    padding: 120px 0;
+}
+.partners__row {
+    flex-wrap: wrap;
+}
+.partners__img {
+    width: 25%;
+    padding: 40px;
+    box-sizing: border-box;
+} 
